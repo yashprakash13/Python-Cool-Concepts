@@ -3,4 +3,6 @@ A repo containing some of the awesome features of Python that makes our lives ea
 
 ### Concepts covered so far are:
 1. Args and Kwargs
+2. Numpy Cheatsheet for Data scientists
+3. 
 
