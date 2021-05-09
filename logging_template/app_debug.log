@@ -1,0 +1,11 @@
+2021-05-09 21:06:30,339 - MyAwesomeApp - DEBUG - Calling module function.
+2021-05-09 21:06:39,526 - MyAwesomeApp - DEBUG - Calling module function.
+2021-05-09 21:07:31,899 - MyAwesomeApp - DEBUG - Calling module function.
+2021-05-09 21:07:31,899 - MyAwesomeApp.mymodule.module - DEBUG - Executing multiply function.
+2021-05-09 21:07:31,899 - MyAwesomeApp - DEBUG - Finished.
+2021-05-09 21:08:07,701 - MyAwesomeApp - DEBUG - Calling module function.
+2021-05-09 21:08:07,702 - MyAwesomeApp.mymodule.module - DEBUG - Executing multiply function.
+2021-05-09 21:08:07,702 - MyAwesomeApp - DEBUG - Finished.
+2021-05-09 21:08:39,709 - MyAwesomeApp - DEBUG - Calling module function.
+2021-05-09 21:08:39,709 - MyAwesomeApp.mymodule.module - DEBUG - Executing multiply function.
+2021-05-09 21:08:39,709 - MyAwesomeApp - DEBUG - Finished.
