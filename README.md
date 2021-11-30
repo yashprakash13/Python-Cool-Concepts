@@ -5,3 +5,5 @@ A repo containing some of the awesome features of Python that makes our lives ea
 1. Args and Kwargs
 2. Numpy Cheatsheet for Data scientists
 3. A custom python logging template that can be used for setting up logging in any app/project.
+4. Date and Time functions and their usages from Pandas
+5. 
