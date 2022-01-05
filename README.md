@@ -7,3 +7,4 @@ A repo containing some of the awesome features of Python that makes our lives ea
 3. A custom python logging template that can be used for setting up logging in any app/project.
 4. Date and Time functions and their usages from Pandas
 5. Scikit-learn pipelines mini project
+6. Optuna with XGBoost in a Regression mini project
