@@ -1,0 +1,13 @@
+height: 28
+width: 28
+channels: 1
+conv2d_filters: 28
+conv2d_kernel_size: 3
+pool_size: 2
+dense_units_1: 128
+dropout: 0.2
+dense_units_2: 10
+optimizer: adam
+loss: sparse_categorical_crossentropy
+metrics: ['accuracy']
+epochs: 10
